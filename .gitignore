@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+output/last_run.log
+output/cron.log
